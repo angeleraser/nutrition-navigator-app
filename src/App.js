@@ -642,13 +642,6 @@ function App() {
       {/* Footer */}
       <footer className="footer">
         <p>
-          Created by <a href="www.google.com"> Luis </a>,
-          <a href="www.google.com"> Natalie </a>,
-          <a href="www.google.com"> Sam </a>, and
-          <a href="www.google.com"> Yemisi </a> at
-          <a href="https://junocollege.com/"> Juno College </a>
-        </p>
-        <p>
           Powered by
           <a href="http://www.nutritionix.com/api"> Nutritionix API </a>
         </p>
